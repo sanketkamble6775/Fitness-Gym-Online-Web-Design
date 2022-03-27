@@ -1,0 +1,11 @@
+#h1 {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+    text-align: center;
+}
+#ilogo {
+    width: 60px;
+    height: auto;
+    filter: invert(100%);
+}
